@@ -8,8 +8,8 @@ def main():
     print (*a)
 
 
-    m = 4
-    n = 3
+    m = 5
+    n = input("")
     multiple(m, n)
 if __name__ == '__main__':
     main()
