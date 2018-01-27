@@ -1,5 +1,5 @@
 def main():
- num = int(input("Enter a number: "))
+ num = int(input(""))
 
  factorial = 1
 
